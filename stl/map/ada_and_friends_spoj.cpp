@@ -30,8 +30,8 @@ vector<long long int> ans;
 int main()
 {
 
-    FIO
-    fileOJ();
+    //FIO
+    //fileOJ();
     int t, n;
     while (cin >> t >> n)
     {
