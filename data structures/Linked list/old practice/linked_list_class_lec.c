@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 struct Node{
-int val;
-struct Node *next;
+    int val;
+    struct Node *next;
 };
 
 
@@ -13,7 +13,7 @@ void print(struct Node *hd)
     curr=head;
 
     for(int i=0;i<3;i++){
-        printf("Node No, value , address: %d %x %d  %x\n",i+1,curr,curr->val,curr->next);
+        //printf("Node No, value , address: %d %x %d  %x\n",i+1,curr,curr->val,curr->next);
         curr=curr->next;
     }
 

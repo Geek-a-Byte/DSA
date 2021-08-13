@@ -23,7 +23,7 @@ int precedence(char symbol);
 void InfixToPrefix(char infix_exp[], char prefix_exp[]);
 
 // main() function begins
-int main()
+void main()
 {
 // Declare infix string and prefix string
 char infix[SIZE], prefix[SIZE];
