@@ -1,6 +1,5 @@
 // https://www.hackerrank.com/challenges/contacts/problem
-// https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/tries-78733022/description/?fbclid=IwAR3WwlsoidWNCk_ny6zjsHyEgx79SnFNqB1XZATyDZAaPKkRJPVp5Fkqhw4
-
+// https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/tries-78733022/description/
 #include <bits/stdc++.h>
 using namespace std;
 
